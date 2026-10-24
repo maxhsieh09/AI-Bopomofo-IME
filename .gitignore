@@ -222,6 +222,7 @@ __marimo__/
 # Models, Logs and other things
 *.pt
 logs/
+old_code/
 preprocessed_wiki.txt
 dictionary.xlsx
 hf_token.txt
